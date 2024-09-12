@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Fullstack Developer with hands-on experience across various technologies, with my main focus being on Full/MERN stack projects. Currently, I'm working on several fullstack projects, constantly learning, building, and refining my skills. I'm actively seeking a full-time role in startups where I can contribute to innovative and dynamic teams.<br><br>Looking for<br>Full-time opportunities<br>Startups and companies building exciting, impactful products<br>Fun Fact<br>When I'm not coding, you can usually find me diving deep into podcasts about neuroscience or exploring new ways to design cool UIs
+I am a Fullstack Developer with hands-on experience across various technologies, with my main focus being on Full/MERN stack projects. Currently, I'm working on several fullstack projects, constantly learning, building, and refining my skills. I'm actively seeking a full-time role in startups where I can contribute to innovative and dynamic teams.<br><br>Looking for<br>Full-time opportunities<br>Startups and companies building exciting, impactful products<br>Fun Fact<br>When I'm not coding, you can usually find me diving deep into podcasts about neuroscience or exploring new ways to design cool UIs
 
 
 ## 🌐 Socials:
